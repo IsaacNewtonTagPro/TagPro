@@ -12,13 +12,12 @@
 'use strict';
 
 
-tagpro.loadAssets({
-    'tiles':        'http://i.imgur.com/EtWFlte.png', //alt tiles: QY80lbv or lfJKkIH
-    'speedpad':     'http://i.imgur.com/JyrR2DK.png',
-    'speedpadRed':  'http://i.imgur.com/ALiPrFp.png',
-    'speedpadBlue': 'http://i.imgur.com/M4oFyZO.png',
-    'portal':       'http://i.imgur.com/nztfw5t.png',
-    'splats':       'http://i.imgur.com/hlVXQ3T.png'
+    'tiles':        'http://i.imgur.com/3sOTPxA.png', //alt tiles: QY80lbv or lfJKkIH
+    'speedpad':     'http://i.imgur.com/iwrrew9.png',
+    'speedpadRed':  'http://i.imgur.com/3sOTPxA.png',
+    'speedpadBlue': 'http://i.imgur.com/CxINKm3.png',
+    'portal':       'http://i.imgur.com/YOaozSC.png',
+    'splats':       'http://i.imgur.com/hlVXQ3T.png',
 });
 
 
